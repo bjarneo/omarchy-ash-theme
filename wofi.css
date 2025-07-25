@@ -1,43 +1,4 @@
-/* Wofi Ash  Theme */
-
-window {
-    margin: 5px;
-    background-color: #1c1c1c;
-    border-radius: 10px;
-    border: 2px solid #8a8a8a;
-}
-
-#input {
-    margin: 5px;
-    border: none;
-    padding: 5px;
-    background-color: #383838;
-    color: #e0e0e0;
-}
-
-#inner-box {
-    margin: 5px;
-    border: none;
-    background-color: #1c1c1c;
-}
-
-#outer-box {
-    margin: 5px;
-    border: none;
-    background-color: #1c1c1c;
-}
-
-#scroll {
-    margin: 5px;
-    border: none;
-}
-
-#text {
-    margin: 5px;
-    border: none;
-    color: #c6c6c6;
-}
-
-#entry:selected {
-    background-color: #626262;
-}
+@define-color selected-text  #e0e0e0;
+@define-color text           #c6c6c6;
+@define-color base           #1c1c1c;
+@define-color border         #8a8a8a;
