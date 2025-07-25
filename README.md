@@ -33,3 +33,6 @@ This theme includes configurations for:
 - Waybar (waybar.css)
 - Wofi (wofi.css)
 - Desktop Background (backgrounds/ash.jpg)
+
+## Neovim theme
+[https://github.com/bjarneo/ash.nvim](https://github.com/bjarneo/ash.nvim)
