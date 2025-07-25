@@ -1,5 +1,5 @@
 return {
-	"omarchy-dothash-theme", -- A unique name for the theme plugin
+	"bjarneo/omarchy-dothash-theme", -- A unique name for the theme plugin
 	lazy = false,
 	priority = 1000,
 	config = function()
