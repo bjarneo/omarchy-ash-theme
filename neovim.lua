@@ -1,6 +1,6 @@
 return {
 	{
-		"bjarne/ash",
+		"bjarneo/ash",
 		name = "ash",
 	},
 	{
