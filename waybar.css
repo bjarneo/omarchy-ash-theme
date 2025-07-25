@@ -1,0 +1,63 @@
+/* Waybar Noir Theme */
+
+* {
+    border: none;
+    border-radius: 0;
+    font-family: monospace;
+    font-size: 14px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: #1c1c1c;
+    color: #c6c6c6;
+}
+
+#workspaces button {
+    padding: 0 5px;
+    background: transparent;
+    color: #c6c6c6;
+}
+
+#workspaces button.active {
+    background: #383838;
+    color: #e0e0e0;
+}
+
+#mode {
+    background: #626262;
+    border-bottom: 2px solid #c6c6c6;
+}
+
+#clock, #battery, #cpu, #memory, #network, #pulseaudio, #tray {
+    padding: 0 10px;
+    margin: 0 5px;
+}
+
+#clock {
+    font-weight: bold;
+}
+
+#battery.charging {
+    color: #767676;
+}
+
+#battery.warning:not(.charging) {
+    color: #9e9e9e;
+}
+
+#cpu {
+    /* No specific styles needed for noir theme */
+}
+
+#memory {
+    /* No specific styles needed for noir theme */
+}
+
+#network.disconnected {
+    color: #8a8a8a;
+}
+
+#pulseaudio.muted {
+    color: #8a8a8a;
+}

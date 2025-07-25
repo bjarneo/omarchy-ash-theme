@@ -1,0 +1,15 @@
+# Btop Noir Theme
+
+# All colors must be in format "#RRGGBB" or a valid color name.
+# For a list of color names, please see `man 5 terminfo`.
+
+# Colors should be a shade of gray.
+theme_color[background]="#1c1c1c"
+theme_color[foreground]="#c6c6c6"
+theme_color[inactive_fg]="#8a8a8a"
+theme_color[selected_bg]="#383838"
+theme_color[selected_fg]="#e0e0e0"
+theme_color[highlight_bg]="#626262"
+theme_color[highlight_fg]="#e0e0e0"
+theme_color[gradient_color1]="#767676"
+theme_color[gradient_color2]="#9e9e9e"
