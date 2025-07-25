@@ -2,3 +2,7 @@
 @define-color text           #c6c6c6;
 @define-color base           #1c1c1c;
 @define-color border         #8a8a8a;
+
+window {
+    background-color: @base;
+}
