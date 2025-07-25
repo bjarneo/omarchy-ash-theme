@@ -1,6 +1,6 @@
 return {
 	{
-		"bjarneo/ash",
+		"bjarneo/ash.nvim",
 		name = "ash",
 	},
 	{
