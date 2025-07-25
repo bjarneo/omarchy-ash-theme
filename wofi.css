@@ -6,3 +6,8 @@
 window {
     background-color: @base;
 }
+
+#entry:selected {
+    background-color: @gray1;
+    color: @fg_bright;
+}
