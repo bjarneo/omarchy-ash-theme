@@ -1,6 +1,6 @@
 # Omarchy Ash Theme
 
-This is the Ash Theme for Omarchy.org, providing a cohesive and visually appealing configuration set for your Linux desktop environment.
+This is the Ash Theme for [Omarchy.org](https://omarchy.org), providing a cohesive and visually appealing configuration set for your Linux desktop environment.
 
 <p align="center">
   <img src="theme.png" alt="Ash Theme Preview">
