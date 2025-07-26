@@ -36,3 +36,6 @@ This theme includes configurations for:
 
 ## Neovim theme
 [https://github.com/bjarneo/ash.nvim](https://github.com/bjarneo/ash.nvim)
+
+## X.com
+[iamdothash](https://x.com/iamdothash)
