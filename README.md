@@ -33,6 +33,7 @@ This theme includes configurations for:
 - Waybar (waybar.css)
 - Wofi (wofi.css)
 - Walker (walker.css)
+- SwayOSD (swayosd.css)
 - Desktop Background (backgrounds/ash.jpg)
 
 ## Neovim theme
