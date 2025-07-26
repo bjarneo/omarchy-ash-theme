@@ -32,6 +32,7 @@ This theme includes configurations for:
 - Neovim (neovim.lua)
 - Waybar (waybar.css)
 - Wofi (wofi.css)
+- Walker (walker.css)
 - Desktop Background (backgrounds/ash.jpg)
 
 ## Neovim theme
