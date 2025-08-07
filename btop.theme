@@ -18,7 +18,7 @@ theme_color[gradient_color2]="#9e9e9e"
 theme[main_bg]=""
 
 # Main text color
-theme[main_fg]="#c6c6c6"
+theme[main_fg]="#e0e0e0"
 
 # Title color for boxes
 theme[title]="#e0e0e0"
